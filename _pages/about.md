@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! my name is Jose I am a theoretical physicist. I received a B.Sc in Physics (2016) and a M.Sc. in Physics (2019) from
-Federico Santa María Technical University in Valparaíso, Chile. In 2023 I moved
-to Spain, where I am a PhD(c). at the University of Valencia.
-=======
 
 Hi! my name is Jose I am a theoretical physicist. I received a B.Sc in Physics (2016) and a M.Sc. in Physics (2019) from
 Federico Santa María Technical University in Valparaíso, Chile. In 2023 I moved
