@@ -1,11 +1,46 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hi! my name is Jose I am a theoretical physicist. I received a B.Sc in Physics (2016) and a M.Sc. in Physics (2019) from
+Federico Santa María Technical University in Valparaíso, Chile. In 2023 I moved
+to Spain, where I am a PhD(c). at the University of Valencia.
+=======
+
+Hi! my name is Jose I am a theoretical physicist. I received a B.Sc in Physics (2016) and a M.Sc. in Physics (2019) from
+Federico Santa María Technical University in Valparaíso, Chile. In 2023 I moved
+to Spain, where I am currently a PhD(c). at the University of Valencia.
+
+Currently, I am working in the field of modified or alternative gravitational theories like metric-affine theories
+using Palatini's formalism or purely affine models of gravity, like Polynomial Affine Gravity. Exploring classical
+aspects in the field of cosmology, black-holes and bosons stars.
+
+Additionally, I am interested in the use of deep learning techniques, specifically the use of neural networks or PINNs (Physics 
+Informed Neural Network) to solve numerically partial differential equations within the context of metric-affine
+or purely affine models of gravity.
+
+You can find a complete list of my work (updated) in the [Publications and talks](https://joseipg1.github.io/publications/) section.
+
+## Current research projects
+
+**Spherical and static solutions to Polynomial Affine Gravity**, in this project we explore the space of solutions to the alternative gravitational
+model Polynomial Affine Gravity in the torsion-free sector, whose fundamental field is the affine connection. We provide an ansatz for the
+symmetric part of the connection compatible with the desires symmetries. 
+
+**Cosmological solutions with torsion effects in Polynomial Affine Gravity**, in this project we solve the field equations of the Polynomial
+Affine Gravity with the torsion field turned on. The ansatz for the symmetric and anti-symmetric part of the affine connection, it is compatible with the symmetries of the cosmological principle. The field equation are solved exactly and we provide a physical interpretation of the solutions.
+
+
+
+## News
+
+- 12-2023 : New article upload to arxiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
+- 12-2023 : I give a talk at "7th Winter Workshop @Valencia".
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
