@@ -1,6 +1,6 @@
 ---
 title: "How to build the model?"
-permalink: /PAG_1.md
+permalink: /talks//PAG_1.md
 ---
 
 
