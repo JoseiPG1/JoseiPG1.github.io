@@ -25,7 +25,7 @@ The Polynomial Affine Gravity it is an alternative gravitational model whose fun
 of the metric tensor. Therefore, the manifold $\mathcal{M}$ is endowed solely by an affine structure $\mathcal{M}\left(\Gamma\right)$
 defining the notion of parallelism.
 
-1. [How to build up the model?.](/_talks/1_PAG.md)
+1. [How to build up the model?.](/1_PAG.md)
 2. Field equations.
 3. Building the ansatz.
 4. Comments on the symmetries.
