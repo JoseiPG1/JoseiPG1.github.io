@@ -1,6 +1,6 @@
 ---
 title: "How to build PAG?"
-permalink: /1_PAG.md
+permalink: /_pages/1_PAG.md
 ---
 
-Building PAG
+Building PAG asjdsad
