@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "How to build PAG?"
-permalink: /talks.md
+permalink: /1_PAG.md
 ---
 
 Building PAG
