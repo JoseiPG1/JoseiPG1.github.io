@@ -11,6 +11,12 @@ In order to build up the action, first we decomposed the affine connection $\Gam
 \begin{aligned}
     \label{affine_connection}
     \hat{\Gamma}_{\alpha}{}^{\beta}{}_{\gamma} & = \hat{\Gamma}_{(\alpha}{}^{\beta}{}_{\gamma)} +  \hat{\Gamma}_{[\alpha}{}^{\beta}{}_{\gamma]},  \\
-    & = \ctG{\alpha}{\beta}{\gamma} + \B{\alpha}{\beta}{\gamma} + \delta^{\beta}_{[\gamma}\A{\alpha]},
+    & = \Gamma_{\alpha}{}^{\beta}{}_{\gamma} + \mathcal{B}_{\alpha}{}^{\beta}{}_{\gamma} + \delta^{\beta}_{[\gamma}\mathcal{A}{\alpha]},
 \end{aligned}
 \end{equation}
+the first term $\Gamma$ correspond to the symmetric part of the affine connection, whereas the last to terms are coming from its
+anti-symmetric part, the former $\mathcal{B}$ is the traceless part of the torsion and the latter $\mahtcal{A}$ is the vectorial
+part of the torsion tensor.
+
+In order to preserve the invariance under diffeomorphism the symmetric part of the connection must go to the action
+indirectly through the covariant derivative $\nabla^\Gamma$. 
