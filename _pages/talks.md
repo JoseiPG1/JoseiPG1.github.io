@@ -30,4 +30,5 @@ defining the notion of parallelism.
 3. Building the ansatz.
 4. Projective symmetries.
 5. Cosmological solutions
-6. Spherical solutions.
+6. Cosmological perturbation theory
+6. Spherical solutions in the torsion-free sector.
