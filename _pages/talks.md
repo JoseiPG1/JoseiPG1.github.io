@@ -28,4 +28,6 @@ defining the notion of parallelism.
 1. [How to build up the model?](/files/Action_PAG_2D.pdf)
 2. Field equations.
 3. Building the ansatz.
-4. Comments on the symmetries.
+4. Projective symmetries.
+5. Cosmological solutions
+6. Spherical solutions.
