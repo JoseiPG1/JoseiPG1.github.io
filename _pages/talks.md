@@ -13,7 +13,7 @@ author_profile: true
 # General Relativity
 ---
 1. [Riemann curvature tensor](files/Riemann_Curvature.pdf)
-2. [Variation of the Ricci tensor](files/Variation_Of_The_Ricci_Tensor)
+2. [Variation of the Ricci tensor](files/Variation_Of_The_Ricci_Tensor.pdf)
 
 # Cosmology
 ---
