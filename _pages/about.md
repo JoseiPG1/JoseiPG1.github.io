@@ -37,6 +37,8 @@ Affine Gravity with the torsion field turned on. The ansatz for the symmetric an
 
 ## News
 
-- 02-2024 : I've upload a new document on how to build the Polynomial Affine Gravity action in two dimensions. Warning, this note is handwritten!
+- 02-2024 : I am starting uploading my personal notes on General Relativity. I've added a computation of the Riemann curvature and the variation of the 
+Ricci tensor.
+- 02-2024 : I've upload a new document on how to build the Polynomial Affine Gravity action in two dimensions. Warning, this note is handwritten!.
 - 12-2023 : New article upload to arxiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
 - 12-2023 : I give a talk at "7th Winter Workshop @Valencia".
