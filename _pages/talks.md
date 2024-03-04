@@ -33,5 +33,6 @@ defining the notion of parallelism.
 3. Building the ansatz.
 4. Projective symmetries.
 5. Cosmological solutions
-6. Cosmological perturbation theory
-6. Spherical solutions in the torsion-free sector.
+6. [Coupling a scalar field in different dimensions](/files/Coupling_a_scalar_field.pdf)
+7. Cosmological perturbation theory
+8. Spherical solutions in the torsion-free sector.
