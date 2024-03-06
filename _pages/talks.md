@@ -8,7 +8,10 @@ author_profile: true
 
 # Differential Geometry
 ---
-
+1. Manifolds and fundamental objects.
+2. Covariant derivative.
+3. Lie derivative.
+4. Bonus! Lie derivative of a connection.
 
 # General Relativity
 ---
@@ -21,6 +24,10 @@ the fundamental ideas of his formulation of general relativity and beyond GR.
 # Cosmology
 ---
 
+1. Cosmological principle and its symmetries.
+2. The FRLW dynamics.
+3. Cosmological inflation.
+4. Perturbation theory. 
 
 # Polynomial Affine Gravity
 ---
