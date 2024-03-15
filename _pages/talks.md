@@ -8,9 +8,13 @@ author_profile: true
 
 # Differential Geometry
 ---
+Differential geometry is the natural language used to describe gravitational interactions in space time. It is crucial
+to have an excellent understanding of the fundamental objects coming from differential geometry which are used
+to formulate General Relativity and alternative/modify gravitational models. In this notes I am covering all the basics
+concepts and fundamental principles of differential geometry used in General Relativity.
 1. Manifolds and fundamental objects.
 2. Covariant derivative.
-3. Lie derivative.
+3. [Lie derivative](/files/Lie_derivative.pdf)
 4. Bonus! Lie derivative of a connection.
 
 # General Relativity
