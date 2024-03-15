@@ -37,10 +37,11 @@ Affine Gravity with the torsion field turned on. The ansatz for the symmetric an
 
 ## News
 
-- 03-2024 : First notes on PINNs!. I will be uploading more notes and python codes on how to implement PINNs with different examples.
-- 03-2024 : I've upload a document on how to coupled a scalar field to the Polynomial Affine Gravity model.
-- 02-2024 : I am starting uploading my personal notes on General Relativity. I've added a computation of the Riemann curvature and the variation of the 
+- 03 - 2024 : I am starting a new topic on my research notes related to the fundamentals of differential geometry. The first upload are my notes on flows, Lie derivative and the Lie bracket.
+- 03 - 2024 : First notes on PINNs!. I will be uploading more notes and python codes on how to implement PINNs with different examples.
+- 03 - 2024 : I've upload a document on how to coupled a scalar field to the Polynomial Affine Gravity model.
+- 02 - 2024 : I am starting uploading my personal notes on General Relativity. I've added a computation of the Riemann curvature and the variation of the 
 Ricci tensor.
-- 02-2024 : I've upload a new document on how to build the Polynomial Affine Gravity action in two dimensions. Warning, this note is handwritten!.
-- 12-2023 : New article upload to arxiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
-- 12-2023 : I give a talk at "7th Winter Workshop @Valencia".
+- 02 - 2024 : I've upload a new document on how to build the Polynomial Affine Gravity action in two dimensions. Warning, this note is handwritten!.
+- 12 - 2023 : New article upload to arxiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
+- 12 - 2023 : I give a talk at "7th Winter Workshop @Valencia".
