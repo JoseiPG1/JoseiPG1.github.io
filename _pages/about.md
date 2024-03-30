@@ -24,19 +24,25 @@ You can find a complete list of my work (updated) in the [Publications and talks
 
 ## Current research projects
 
-**Born-Infeld gravity**, I am currently studying the Born-Infeld gravity as a solution on how to coupled matter field to Eddington 
-affine model of gravity.
+**Purely affine Born-Infeld gravity**, I am currently studying a purely affine formulation of the Born-Infeld model of gravity, whose action
+is written as the sum of the Ricci tensor and the Maxwell tensor.
 
 **Spherical and static solutions to Polynomial Affine Gravity**, in this project we explore the space of solutions to the alternative gravitational
 model Polynomial Affine Gravity in the torsion-free sector, whose fundamental field is the affine connection. We provide an ansatz for the
 symmetric part of the connection compatible with the desires symmetries. 
 
+## Research projects completed
+
 **Cosmological solutions with torsion effects in Polynomial Affine Gravity**, in this project we solve the field equations of the Polynomial
 Affine Gravity with the torsion field turned on. The ansatz for the symmetric and anti-symmetric part of the affine connection, it is compatible with the symmetries of the cosmological principle. The field equation are solved exactly and we provide a physical interpretation of the solutions.
 
+**Inflationary scenarios in an effective polynomial affine model of gravity**, in this project we explore the method to coupled a scalar field to the
+Polynomial Affine Gravity model without the use of a metric tensor, and the potential term re-scale the volume form. Then we find analytical and numerical solutions to the field equations (in the torsion-free limit) with and without the effects of the scalar field subject to the most well known potential terms: power law and Starobinsky.
+ 
 
 ## News
-
+Month - Year : News
+- 03 - 2024 : I've updated the list of research projects that I am currently involved, and the ones that I've already finished.
 - 03 - 2024 : I am starting a new topic on my research notes related to the fundamentals of differential geometry. The first upload are my notes on flows, Lie derivative and the Lie bracket.
 - 03 - 2024 : First notes on PINNs!. I will be uploading more notes and python codes on how to implement PINNs with different examples.
 - 03 - 2024 : I've upload a document on how to coupled a scalar field to the Polynomial Affine Gravity model.
