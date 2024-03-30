@@ -25,7 +25,7 @@ You can find a complete list of my work (updated) in the [Publications and talks
 ## Current research projects
 
 **Generalization of Eddington and BI model of gravity**, I've notice that in the work of BI model of gravity they consider
-the most general linear combination of the combination of the metric tensor and the Maxwell tensor. In the work [Determinantal Born-Infeld Coupling of Gravity and Electromagnetism](https://arxiv.org/pdf/2112.09978.pdf), they considered three fundamental fields, the metric tensor $g_{\mu\nu}$, the Ricci $\mathcal{R}_{\mu\nu}$ tensor and the Maxwell tensor \mathcal{F}_{\mu\nu}$. My proposal is to formulate the most general action considering all possible linear combination of those fundamental fields and studied the solution with spherical symmetry.
+the most general linear combination of the combination of the metric tensor and the Maxwell tensor. In the work [Determinantal Born-Infeld Coupling of Gravity and Electromagnetism](https://arxiv.org/pdf/2112.09978.pdf), they considered three fundamental fields, the metric tensor $g_{\mu\nu}$, the Ricci $\mathcal R_{\mu\nu}$ tensor and the Maxwell tensor \mathcal{F}_{\mu\nu}$. My proposal is to formulate the most general action considering all possible linear combination of those fundamental fields and studied the solution with spherical symmetry.
 
 **Purely affine Born-Infeld gravity**, I am currently studying a purely affine formulation of the Born-Infeld model of gravity, whose action
 is written as the sum of the Ricci tensor and the Maxwell tensor.
