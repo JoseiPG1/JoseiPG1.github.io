@@ -56,4 +56,4 @@ physical implications.
 Physics-informed neural networks (PINNs) are a type of universal function approximators that can embed the knowledge of any physical laws that govern a given data-set in the learning process, and can be described by partial differential equations (PDEs) or ordinary differential equations (ODEs).
 
 1. [Brief introduction on how PINNs works](/files/Introduction_to_PINNs.pdf) 
-2. Basic examples on how to use PINNs.
+2. [Basic examples on how to use PINNs](https://github.com/JoseiPG1/PINNs)
