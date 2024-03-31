@@ -47,7 +47,7 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ## News
 Month - Year : News
-- 03 - 2024 : I've created a new repository (on my github) named PINNs related to on the implementation of (PINNs)[https://github.com/JoseiPG1/PINNs], which you can also find on Research Notes and then click on Basic examples on how to use PINNs.
+- 03 - 2024 : I've created a new repository (on my github) named PINNs related to on the implementation of [PINNs](https://github.com/JoseiPG1/PINNs), which you can also find on Research Notes and then click on Basic examples on how to use PINNs.
 - 03 - 2024 : I've updated the list of research projects that I am currently involved, and the ones that I've already finished.
 - 03 - 2024 : I am starting a new topic on my research notes related to the fundamentals of differential geometry. The first upload are my notes on flows, Lie derivative and the Lie bracket.
 - 03 - 2024 : First notes on PINNs!. I will be uploading more notes and python codes on how to implement PINNs with different examples.
