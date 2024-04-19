@@ -49,6 +49,7 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ### April - 2024
 
+- 04 - 2024 : I was accepted at the school **From Fundamental Physics to Data Analysis in Cosmology** and also fully funded!!!.
 - 04 - 2024 : I've created a new topic related to Born-Infeld gravity in my research notes. I've uploaded my first notes on the calculation of the field equations of Born-Infeld gravity coupled with electromagnetism.
 - 04 - 2024 : New  preprint uploaded to arXiv[Cosmological Solutions in Polynomial Affine Gravity with Torsion](https://arxiv.org/abs/2404.11703)
 
