@@ -50,6 +50,12 @@ physical implications.
 7. Cosmological perturbation theory
 8. Spherical solutions in the torsion-free sector.
 
+# Determinantal gravity
+---
+
+These are my personal notes on the development of Born-Infeld type of determinantal gravity whose functional is a generalization of Eddington and Einstein's idea of an affine model of gravity, defined by the square root of the determinant of the Ricci tensor. This will be the main core of my PhD thesis.
+
+1. [Field equations of BI gravity coupled with electromagnetism](/files/Determinantal_BI.pdf)
 
 # PINNs (Physics Informed Neural Networks)
 

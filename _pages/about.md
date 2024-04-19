@@ -46,10 +46,10 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
  
 
 ## News
-Month - Year : News
 
 ### April - 2024
 
+- 04 - 2024 : I've created a new topic related to Born-Infeld gravity in my research notes. I've uploaded my first notes on the calculation of the field equations of Born-Infeld gravity coupled with electromagnetism.
 - 04 - 2024 : New  preprint uploaded to arXiv[Cosmological Solutions in Polynomial Affine Gravity with Torsion](https://arxiv.org/abs/2404.11703)
 
 ### March - 2024
@@ -64,5 +64,8 @@ Month - Year : News
 - 02 - 2024 : I am starting uploading my personal notes on General Relativity. I've added a computation of the Riemann curvature and the variation of the 
 Ricci tensor.
 - 02 - 2024 : I've upload a new document on how to build the Polynomial Affine Gravity action in two dimensions. Warning, this note are handwritten!.
-- 12 - 2023 : New article uploaded to arXiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
-- 12 - 2023 : I give a talk at "7th Winter Workshop @Valencia".
+
+### January - 2024
+
+- 01 - 2023 : New article uploaded to arXiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
+- 01 - 2023 : I give a talk at "7th Winter Workshop @Valencia".
