@@ -47,13 +47,22 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ## News
 Month - Year : News
+
+### April - 2024
+
+- 04 - 2024 : New  preprint uploaded to arXiv[Cosmological Solutions in Polynomial Affine Gravity with Torsion](https://arxiv.org/abs/2404.11703)
+
+### March - 2024
 - 03 - 2024 : I've created a new repository (on my github) named PINNs related to on the implementation of [PINNs](https://github.com/JoseiPG1/PINNs), which you can also find on Research Notes and then click on Basic examples on how to use PINNs.
 - 03 - 2024 : I've updated the list of research projects that I am currently involved, and the ones that I've already finished.
 - 03 - 2024 : I am starting a new topic on my research notes related to the fundamentals of differential geometry. The first upload are my notes on flows, Lie derivative and the Lie bracket.
 - 03 - 2024 : First notes on PINNs!. I will be uploading more notes and python codes on how to implement PINNs with different examples.
 - 03 - 2024 : I've upload a document on how to coupled a scalar field to the Polynomial Affine Gravity model.
+
+### February - 2024
+
 - 02 - 2024 : I am starting uploading my personal notes on General Relativity. I've added a computation of the Riemann curvature and the variation of the 
 Ricci tensor.
-- 02 - 2024 : I've upload a new document on how to build the Polynomial Affine Gravity action in two dimensions. Warning, this note is handwritten!.
-- 12 - 2023 : New article upload to arxiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
+- 02 - 2024 : I've upload a new document on how to build the Polynomial Affine Gravity action in two dimensions. Warning, this note are handwritten!.
+- 12 - 2023 : New article uploaded to arXiv: [Inflationary scenarios in an effective polynomial affine model of gravity](https://browse.arxiv.org/abs/2312.07312).
 - 12 - 2023 : I give a talk at "7th Winter Workshop @Valencia".
