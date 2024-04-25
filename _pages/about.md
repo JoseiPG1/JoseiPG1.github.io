@@ -49,9 +49,10 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ### April - 2024
 
+- 04 - 2025 : I've added my first notes on gravitational waves, with a brief introduction, linearized gravity, the Lorenz gauge and transverse-traceless gauge.
 - 04 - 2024 : I was accepted at the school **From Fundamental Physics to Data Analysis in Cosmology** and also fully funded!!!.
 - 04 - 2024 : I've created a new topic related to Born-Infeld gravity in my research notes. I've uploaded my first notes on the calculation of the field equations of Born-Infeld gravity coupled with electromagnetism.
-- 04 - 2024 : New  preprint uploaded to arXiv[Cosmological Solutions in Polynomial Affine Gravity with Torsion](https://arxiv.org/abs/2404.11703)
+- 04 - 2024 : New  preprint uploaded to arXiv [Cosmological Solutions in Polynomial Affine Gravity with Torsion](https://arxiv.org/abs/2404.11703)
 
 ### March - 2024
 - 03 - 2024 : I've created a new repository (on my github) named PINNs related to on the implementation of [PINNs](https://github.com/JoseiPG1/PINNs), which you can also find on Research Notes and then click on Basic examples on how to use PINNs.
