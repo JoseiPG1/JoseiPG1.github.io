@@ -47,9 +47,13 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ## News
 
+### May - 2024
+
+- 05 - 2024 : I fork various repositories from the school **From Fundamental Physics to Data Analysis in Cosmology**, please feel free to explore each subject. The first file Cosmology from theory to data analysis are the lectures by W.G related to inflation theory. The second file Data driven cosmology, are the lectures dictated by J.M and teach us how to use neural networks and its application. The third file, from $\Lambda$CDM to early dark energy are the lectures from L.H. You can find all the information with its respective codes in the files
+
 ### April - 2024
 
-- 04 - 2025 : I've added my first notes on gravitational waves, with a brief introduction, linearized gravity, the Lorenz gauge and transverse-traceless gauge.
+- 04 - 2024 : I've added my first notes on gravitational waves, with a brief introduction, linearized gravity, the Lorenz gauge and transverse-traceless gauge.
 - 04 - 2024 : I was accepted at the school **From Fundamental Physics to Data Analysis in Cosmology** and also fully funded!!!.
 - 04 - 2024 : I've created a new topic related to Born-Infeld gravity in my research notes. I've uploaded my first notes on the calculation of the field equations of Born-Infeld gravity coupled with electromagnetism.
 - 04 - 2024 : New  preprint uploaded to arXiv [Cosmological Solutions in Polynomial Affine Gravity with Torsion](https://arxiv.org/abs/2404.11703)
