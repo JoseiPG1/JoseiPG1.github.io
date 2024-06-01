@@ -33,7 +33,7 @@ author_profile: true
 
 # Conferences and talks
 ---
-
+1. 06-2024 *Polynomial Affine Gravity coupled with a scalar field* **I-COOP Workshop on Compact Objects**
 1. 12-2023 *Cosmological solutions with torsion effects in Polynomial Affine Gravity* **7th Winter Workshop @Valencia, Spain.**
 2. 05-2023 *An inflationary scenario in an effective polynomial affine model of gravity* **Panoramas UTFSM-PUCV, Chile.**
 3. 11-2022 *Polynomial Affine Gravity in 3+1 dimensions* **Sochifi (Chilean Physic's Society), Chile.**
