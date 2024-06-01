@@ -64,3 +64,4 @@ Physics-informed neural networks (PINNs) are a type of universal function approx
 
 1. [Brief introduction on how PINNs works](/files/Introduction_to_PINNs.pdf) 
 2. [Basic examples on how to use PINNs](https://github.com/JoseiPG1/PINNs)
+3. [Neural networks repositories](https://github.com/JoseiPG1/Neural_Networks_Projects/tree/main)
