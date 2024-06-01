@@ -49,6 +49,10 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ### May - 2024
 
+- 05 - 2024 : I will be given a talk at I-COOP Workshop on Compact Objects, Valencia Spain.
+
+- 05 - 2024 : I've created a new repository on my github page named **Neural_Networks_Projects** where I will be uploading currently working projects on the use of neural networks. The projects goes from very simple ideas to the use of PINNs to simulated the geodesic curves of test particles around a Binary Black Hole systems. Please feel free to read the project. Today I've upload project [1] Predicting Residential EV Charging Loads, and you can find more information on the readme section.
+
 - 05 - 2024 : I fork various repositories from the school **From Fundamental Physics to Data Analysis in Cosmology**, please feel free to explore each subject. The first file Cosmology from theory to data analysis are the lectures by W.G related to inflation theory. The second file Data driven cosmology, are the lectures dictated by J.M and teach us how to use neural networks and its application. The third file, from $\Lambda$CDM to early dark energy are the lectures from L.H. You can find all the information with its respective codes in the files
 
 ### April - 2024
