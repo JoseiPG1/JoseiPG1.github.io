@@ -45,5 +45,6 @@ author_profile: true
 
 # Schools
 ---
-1. 09-2023 3rd Winter School: Topics on Gravitituclas, Pontificie Universidad Catolica de Chile, Chile.
-2. 03-2020 School of Gravity and General Relativity, CECs (Cientific Center of Studies), Chile.
+1. 05 - 2024 From Fundamental Physics to Data Analysis in Cosmology, Corfu, Greece.
+1. 09 - 2023 3rd Winter School: Topics on Gravitituclas, Pontificie Universidad Catolica de Chile, Chile.
+2. 03 - 2020 School of Gravity and General Relativity, CECs (Cientific Center of Studies), Chile.
