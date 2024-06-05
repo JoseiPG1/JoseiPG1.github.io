@@ -7,10 +7,11 @@ author_profile: true
 
 # Preprints
 ---
+1. Cosmological Solutions in Polynomial Affine Gravity with Torsion [arxiv](https://arxiv.org/abs/2404.11703)
 
-1. Inflationary scenarios in an effective polynomial affine model of gravity [arxiv](https://browse.arxiv.org/abs/2312.07312)
+2. Inflationary scenarios in an effective polynomial affine model of gravity [arxiv](https://browse.arxiv.org/abs/2312.07312)
 
-2. Polynomial affine gravity in 3+1 dimensions [arxiv](https://arxiv.org/abs/2212.07975)
+3. Polynomial affine gravity in 3+1 dimensions [arxiv](https://arxiv.org/abs/2212.07975)
 
 # Peer-reviewed publications
 ---

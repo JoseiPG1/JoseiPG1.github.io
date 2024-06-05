@@ -47,6 +47,10 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ## News
 
+### June - 2024
+
+- 06 - 2024: New version of **Cosmological Solutions in Polynomial Affine Gravity with Torsion** which can be found in this [link](). The pre-print was sent to EPJC.
+
 ### May - 2024
 
 - 05 - 2024 : I will be given a talk at I-COOP Workshop on Compact Objects, Valencia Spain.
