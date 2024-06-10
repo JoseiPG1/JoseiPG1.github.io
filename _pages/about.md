@@ -49,6 +49,8 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ### June - 2024
 
+- 06 - 2024: I give a talk at I-COOP Workshop on Compact Objects, Valencia Spain, named **Polynomial Affine Gravity coupled with a Scalar field and Torsion Fields**, the basic idea was to give a brief introduction to the affine model of gravity, talk about its cosmological solution and how to coupled a scalar field without the necessity of a metric tensor. There were two main question that need to be addressed urgently: the invariance under diffeomorphisms and the equivalence principle.
+
 - 06 - 2024: New version of **Cosmological Solutions in Polynomial Affine Gravity with Torsion** which can be found in this [link](). The pre-print was sent to EPJC.
 
 ### May - 2024
