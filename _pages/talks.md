@@ -58,10 +58,11 @@ These are my personal notes on the development of Born-Infeld type of determinan
 
 1. [Field equations of BI gravity coupled with electromagnetism](/files/Determinantal_BI.pdf)
 
-# PINNs (Physics Informed Neural Networks)
+# Machine learning, Artificial neural networks and PINNs (Physics Informed Neural Networks)
 
 Physics-informed neural networks (PINNs) are a type of universal function approximators that can embed the knowledge of any physical laws that govern a given data-set in the learning process, and can be described by partial differential equations (PDEs) or ordinary differential equations (ODEs).
 
 1. [Brief introduction on how PINNs works](/files/Introduction_to_PINNs.pdf) 
 2. [Basic examples on how to use PINNs](https://github.com/JoseiPG1/PINNs)
-3. [Neural networks repositories](https://github.com/JoseiPG1/Neural_Networks_Projects/tree/main)
+3. [Project 1: ANN](https://github.com/JoseiPG1/Neural_Networks_Projects/tree/main/Predicting%20Residential%20EV%20Charging%20Loads%20using%20Neural%20Networks)
+4.[Project 2: ANN](https://github.com/JoseiPG1/Neural_Networks_Projects/tree/main/Predicting%20the%20rent%20using%20Neural%20Networks)
