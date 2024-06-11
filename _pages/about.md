@@ -47,7 +47,9 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ### June - 2024
 
-- 06 - 2025: I upload new material on how to couple a scalar field to the Polynomial Affine Gravity in four dimensions, and also, include the details on how to derive the field equations, and the field equations under the symmetries of the cosmological principle. See my research notes.
+- 06 - 2024: I've added the advanced lectures notes from professor Jorge Zanelli on first order formalism gravity. These notes are from the Graviticulas school at PUC, Chile.
+
+- 06 - 2024: I upload new material on how to couple a scalar field to the Polynomial Affine Gravity in four dimensions, and also, include the details on how to derive the field equations, and the field equations under the symmetries of the cosmological principle. See my research notes.
 
 - 06 - 2024: I've upload a new neural network project to my github page. This is the [link](https://github.com/JoseiPG1/Neural_Networks_Projects/tree/main) to the section, please feel free to study the new and the old project and provide me with feedback. Also, you can find the link in the research notes section, in the new section **Machine learning, Artificial neural networks and PINNs (Physics Informed Neural Networks)**
 
