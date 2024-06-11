@@ -48,8 +48,9 @@ physical implications.
 4. Projective symmetries.
 5. Cosmological solutions
 6. [Coupling a scalar field in different dimensions](/files/Coupling_a_scalar_field.pdf)
-7. Cosmological perturbation theory
-8. Spherical solutions in the torsion-free sector.
+7. [Cosmological equations coupled with a scalar field](/files/PAG_SF.pdf)
+8. Cosmological perturbation theory
+
 
 # Determinantal gravity
 ---
