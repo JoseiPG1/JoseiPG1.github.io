@@ -25,7 +25,7 @@ the fundamental ideas of his formulation of general relativity and beyond GR.
 1. [Riemann curvature tensor](/files/Riemann_Curvature.pdf)
 2. [Variation of the Ricci tensor](/files/Variation_Of_The_Ricci_Tensor.pdf)
 3. [Gravitational Waves](/files/Gravitational_Waves.pdf)
-4. [First order formalism](/files/Advanced%20lectures%20on%20GR.pdf)
+4. [First order formalism lectures notes from Professor Jorge Zanelli](/files/Advanced%20lectures%20on%20GR.pdf)
 
 # Cosmology
 ---
