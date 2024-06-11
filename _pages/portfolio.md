@@ -5,9 +5,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-# Introduction to general relativity and cosmology
 
-[ ] Fundamentals of differential geometry.
-[ ] General relativity.
-[ ] Cosmology.
-[ ] Perturbation theory.
+
+This is the scheme of the book
+1. Introduction to differential geometry.
+2. General relativity.
+3. Cosmology.
+4. Cosmological perturbation theory.
+5. Affine Gravity
