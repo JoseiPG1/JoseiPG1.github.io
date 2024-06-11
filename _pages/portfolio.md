@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Book project"
 permalink: /portfolio/
 author_profile: true
 ---
 
-[ ] Fundamentals of differential geometry
-[ ] General relativity
-[ ] Cosmology
-[ ] Perturbation theory
-[ ]
+# Introduction to general relativity and cosmology
+
+[ ] Fundamentals of differential geometry.
+[ ] General relativity.
+[ ] Cosmology.
+[ ] Perturbation theory.
