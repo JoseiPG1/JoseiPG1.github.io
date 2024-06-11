@@ -24,17 +24,15 @@ You can find a complete list of my work (updated) in the [Publications and talks
 
 ## Current research projects
 
+**Project 1: Polynomial affine gravity coupled with a scalar field and non-vanishing torsion fields**. In this project we explore the space of solution of coupling a scalar field in the Polynomial Affine Gravity model with nontrivial torsion fields. The introduction of a non-vanishing torsion field, induces an affine Klein-Gordon field equation which can not be obtained without a torsion field. The space of solution is studied for different types of potential terms.
+
+**Projec 2: Applications of PINNs to BBH orbits**
+
 **Generalization of Eddington and BI model of gravity**, I've notice that in the work of BI model of gravity they consider
 the most general linear combination of the combination of the metric tensor and the Maxwell tensor. In the work [Determinantal Born-Infeld Coupling of Gravity and Electromagnetism](https://arxiv.org/pdf/2112.09978.pdf), they considered three fundamental fields, the metric tensor $g_{\mu\nu}$, the Ricci $\mathcal R_{\mu\nu}$ tensor and the Maxwell tensor $\mathcal F_{\mu\nu}$. My proposal is to formulate the most general action considering all possible linear combination of those fundamental fields and studied the solution with spherical symmetry.
 
 **Purely affine Born-Infeld gravity**, I am currently studying a purely affine formulation of the Born-Infeld model of gravity, whose action
 is written as the sum of the Ricci tensor and the Maxwell tensor.
-
-**Scalar field effects coupled with nontrivial torsion fields in Polynomial Affine Gravity**, this project we explore the space of solution of coupling a scalar field in the Polynomial Affine Gravity model with nontrivial torsion fields. The introduction of a non-vanishing torsion field, induces an affine Klein-Gordon field equation which can not be obtained without a torsion field. The space of solution is studied for different types of potential terms.
-
-**Spherical and static solutions to Polynomial Affine Gravity**, in this project we explore the space of solutions to the alternative gravitational
-model Polynomial Affine Gravity in the torsion-free sector, whose fundamental field is the affine connection. We provide an ansatz for the
-symmetric part of the connection compatible with the desires symmetries. 
 
 ## Research projects completed [2/2]
 
