@@ -26,7 +26,7 @@ You can find a complete list of my work (updated) in the [Publications and talks
 
 **Project 1: Polynomial affine gravity coupled with a scalar field and non-vanishing torsion fields**. In this project we explore the space of solution of coupling a scalar field in the Polynomial Affine Gravity model with nontrivial torsion fields. The introduction of a non-vanishing torsion field, induces an affine Klein-Gordon field equation which can not be obtained without a torsion field. The space of solution is studied for different types of potential terms.
 
-**Projec 2: Applications of PINNs to BBH orbits**
+**Projec 2: Applications of PINNs to BBH orbits**, the basic idea is to train an artificial neural network with the waveform data coming from a binary black-hole system and recover the geodesic curve of the system. This will be done for different configurations of the problem.
 
 **Generalization of Eddington and BI model of gravity**, I've notice that in the work of BI model of gravity they consider
 the most general linear combination of the combination of the metric tensor and the Maxwell tensor. In the work [Determinantal Born-Infeld Coupling of Gravity and Electromagnetism](https://arxiv.org/pdf/2112.09978.pdf), they considered three fundamental fields, the metric tensor $g_{\mu\nu}$, the Ricci $\mathcal R_{\mu\nu}$ tensor and the Maxwell tensor $\mathcal F_{\mu\nu}$. My proposal is to formulate the most general action considering all possible linear combination of those fundamental fields and studied the solution with spherical symmetry.
@@ -46,6 +46,8 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 ## News
 
 ### June - 2024
+
+- 06 - 2024: I created a new repository on my github account, named **iGW_BBH** which stands for inverse Gravitational Waves from a Binary Black-Hole system. The idea is to train a neural network with the waveform of the BBH to recover the geodesic curve. This is a privet repository, if you want to known more, please feel free to contact me.
 
 - 06 - 2024: I've added the advanced lectures notes from professor Jorge Zanelli on first order formalism gravity. These notes are from the Graviticulas school at PUC, Chile.
 
