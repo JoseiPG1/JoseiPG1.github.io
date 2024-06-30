@@ -45,6 +45,11 @@ Polynomial Affine Gravity model without the use of a metric tensor, and the pote
 
 ## News
 
+
+### July - 2024
+
+- 07 - 2024: I made public the repository containing the work on how to use neural networks the recover the trajectories from a Binary Black Hole system using the gravitational waveform. The first case was done using the language Julia, and I am currently working on developing a version in Python.
+
 ### June - 2024
 
 - 06 - 2024: I created a new repository on my github account, named **iGW_BBH** which stands for inverse Gravitational Waves from a Binary Black-Hole system. The idea is to train a neural network with the waveform of the BBH to recover the geodesic curve. This is a privet repository, if you want to known more, please feel free to contact me.
