@@ -26,25 +26,19 @@ You can find a complete list of my work (updated) in the [Publications and talks
 
 **Project 1: Polynomial affine gravity coupled with a scalar field and non-vanishing torsion fields**. In this project we explore the space of solution of coupling a scalar field in the Polynomial Affine Gravity model with nontrivial torsion fields. The introduction of a non-vanishing torsion field, induces an affine Klein-Gordon field equation which can not be obtained without a torsion field. The space of solution is studied for different types of potential terms.
 
-**Projec 2: Applications of PINNs to BBH orbits**, the basic idea is to train an artificial neural network with the waveform data coming from a binary black-hole system and recover the geodesic curve of the system. This will be done for different configurations of the problem.
-
-**Generalization of Eddington and BI model of gravity**, I've notice that in the work of BI model of gravity they consider
-the most general linear combination of the combination of the metric tensor and the Maxwell tensor. In the work [Determinantal Born-Infeld Coupling of Gravity and Electromagnetism](https://arxiv.org/pdf/2112.09978.pdf), they considered three fundamental fields, the metric tensor $g_{\mu\nu}$, the Ricci $\mathcal R_{\mu\nu}$ tensor and the Maxwell tensor $\mathcal F_{\mu\nu}$. My proposal is to formulate the most general action considering all possible linear combination of those fundamental fields and studied the solution with spherical symmetry.
-
-**Purely affine Born-Infeld gravity**, I am currently studying a purely affine formulation of the Born-Infeld model of gravity, whose action
-is written as the sum of the Ricci tensor and the Maxwell tensor.
-
-## Research projects completed [2/2]
-
-**Cosmological solutions with torsion effects in Polynomial Affine Gravity**, in this project we solve the field equations of the Polynomial
-Affine Gravity with the torsion field turned on. The ansatz for the symmetric and anti-symmetric part of the affine connection, it is compatible with the symmetries of the cosmological principle. The field equation are solved exactly and we provide a physical interpretation of the solutions.
-
-**Inflationary scenarios in an effective polynomial affine model of gravity**, in this project we explore the method to coupled a scalar field to the
-Polynomial Affine Gravity model without the use of a metric tensor, and the potential term re-scale the volume form. Then we find analytical and numerical solutions to the field equations (in the torsion-free limit) with and without the effects of the scalar field subject to the most well known potential terms: power law and Starobinsky.
+**Projec 2: Applications of PINNs to BBH orbits**, the basic idea is to train an artificial neural network with the waveform data coming from a binary black-hole system and to recover the geodesic curve of the system. This will be done for different configurations of the problem. The first
+step was done by working with Schwarzschild black-hole. The second step is currently being developed by introducing an angular momentum (spin) to 
+the binary black-hole system.
  
 
 ## News
 
+### November - 2024
+
+- The paper **A polynomial affine model of gravity: after ten years** is almost done
+- I started a youtube channel where I will be uploading a weekly-videos talking about science, physics and topics related to my research field, please subscribed to my channel!. Currently there are two videos.
+- I was accepted at the school **Gravitational Waves in Astrophysics: From Theory to Observations** at the University of Chile, from 18-22 (November).
+- Our paper **Cosmological solutions in polynomial affine gravity with torsion** was accepted and published at EPJC.
 
 ### July - 2024
 
