@@ -20,7 +20,8 @@ Additionally, I am interested in the use of deep learning techniques, specifical
 Informed Neural Network) to solve numerically partial differential equations within the context of metric-affine
 or purely affine models of gravity.
 
-You can find a complete list of my work (updated) in the [Publications and talks](https://joseipg1.github.io/publications/) section.
+You can find a complete list of my work (updated) in the [Publications and talks](https://joseipg1.github.io/publications/) section and
+my youtube channel at [this link ▶](https://www.youtube.com/@josep5840)
 
 ## Current research projects
 
