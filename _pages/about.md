@@ -25,11 +25,15 @@ my youtube channel at [this link ▶](https://www.youtube.com/@josep5840)
 
 ## Current research projects
 
+These are the my current research projects:
+
 **Project 1: Polynomial affine gravity coupled with a scalar field and non-vanishing torsion fields**. In this project we explore the space of solution of coupling a scalar field in the Polynomial Affine Gravity model with nontrivial torsion fields. The introduction of a non-vanishing torsion field, induces an affine Klein-Gordon field equation which can not be obtained without a torsion field. The space of solution is studied for different types of potential terms.
 
 **Projec 2: Applications of PINNs to BBH orbits**, the basic idea is to train an artificial neural network with the waveform data coming from a binary black-hole system and to recover the geodesic curve of the system. This will be done for different configurations of the problem. The first
 step was done by working with Schwarzschild black-hole. The second step is currently being developed by introducing an angular momentum (spin) to 
 the binary black-hole system.
+
+**Project 3: A polynomial affine model of gravity: after ten years**. This project is a comprehensive review of the model Polynomial Affine Gravity, where there are detail computation on how to build-up the action, the ansatz for the affine connection (cosmological), variation to get the field equations, cosmological solutions and its corresponding emergent metric spaces in the space of solutions, perturbartion affine theory, affine foliation, introduction to black-hole like solution and perspectives of the model.
  
 
 ## News
