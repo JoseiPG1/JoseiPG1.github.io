@@ -39,7 +39,7 @@ the binary black-hole system.
 
 ### December - 2024
 
-- The paper **A polynomial affine model of gravity: after ten years** is donde, you can check the pre-print in [Arxiv](https://arxiv.org/pdf/2412.21122)
+- The paper **A polynomial affine model of gravity: after ten years** is done, you can check the pre-print in [Arxiv](https://arxiv.org/pdf/2412.21122)
 
 ### November - 2024
 
