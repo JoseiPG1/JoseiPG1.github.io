@@ -7,7 +7,7 @@ author_profile: true
 
 # Preprints
 ---
-1. Cosmological Solutions in Polynomial Affine Gravity with Torsion [arxiv](https://arxiv.org/abs/2404.11703)
+1. [A polynomial aﬃne model of gravity: after ten years](https://arxiv.org/pdf/2412.21122)
 
 2. Inflationary scenarios in an effective polynomial affine model of gravity [arxiv](https://browse.arxiv.org/abs/2312.07312)
 
@@ -16,15 +16,17 @@ author_profile: true
 # Peer-reviewed publications
 ---
 
-1. Corrigendum: Emergent metric and geodesic analysis in cosmological solutions of (torsion-free) polynomial affine gravity [journal](https://iopscience.iop.org/article/10.1088/1361-6382/ad0356)
+1. Cosmological Solutions in Polynomial Affine Gravity with Torsion [arxiv](https://arxiv.org/abs/2404.11703)[journal]()
 
-2. Does the metric play a fundamental role in the building of gravitational models? [journal](https://www.worldscientific.com/doi/abs/10.1142/S0219887824300010?journalCode=ijgmmp), [arxiv](https://arxiv.org/abs/2306.03729)
+2. Corrigendum: Emergent metric and geodesic analysis in cosmological solutions of (torsion-free) polynomial affine gravity [journal](https://iopscience.iop.org/article/10.1088/1361-6382/ad0356)
 
-3. Polynomial Affine Model of Gravity in Three-Dimensions [journal](https://www.mdpi.com/2218-1997/8/2/68), [arxiv](https://arxiv.org/abs/2201.12030#:~:text=In%20this%20work%2C%20we%20explore,the%20set%20of%20fundamental%20fields.)
+3. Does the metric play a fundamental role in the building of gravitational models? [journal](https://www.worldscientific.com/doi/abs/10.1142/S0219887824300010?journalCode=ijgmmp), [arxiv](https://arxiv.org/abs/2306.03729)
 
-4. Emergent metric and geodesic analysis in cosmological solutions of (torsion-free) polynomial affine gravity [journal](https://iopscience.iop.org/article/10.1088/1361-6382/ab58ef/meta), [arxiv](https://arxiv.org/abs/1908.06654)
+4. Polynomial Affine Model of Gravity in Three-Dimensions [journal](https://www.mdpi.com/2218-1997/8/2/68), [arxiv](https://arxiv.org/abs/2201.12030#:~:text=In%20this%20work%2C%20we%20explore,the%20set%20of%20fundamental%20fields.)
 
-5. Cosmological solutions to polynomial affine gravity in the torsion-free sector [journal](https://www.intechopen.com/chapters/64713), [arxiv](https://browse.arxiv.org/abs/1808.05970)
+5. Emergent metric and geodesic analysis in cosmological solutions of (torsion-free) polynomial affine gravity [journal](https://iopscience.iop.org/article/10.1088/1361-6382/ab58ef/meta), [arxiv](https://arxiv.org/abs/1908.06654)
+
+6. Cosmological solutions to polynomial affine gravity in the torsion-free sector [journal](https://www.intechopen.com/chapters/64713), [arxiv](https://browse.arxiv.org/abs/1808.05970)
 
 # Monographs
 ---

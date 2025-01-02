@@ -33,11 +33,13 @@ These are the my current research projects:
 **Projec 2: Applications of PINNs to BBH orbits**, the basic idea is to train an artificial neural network with the waveform data coming from a binary black-hole system and to recover the geodesic curve of the system. This will be done for different configurations of the problem. The first
 step was done by working with Schwarzschild black-hole. The second step is currently being developed by introducing an angular momentum (spin) to 
 the binary black-hole system.
-
-**Project 3: A polynomial affine model of gravity: after ten years**. This project is a comprehensive review of the model Polynomial Affine Gravity, where there are detail computation on how to build-up the action, the ansatz for the affine connection (cosmological), variation to get the field equations, cosmological solutions and its corresponding emergent metric spaces in the space of solutions, perturbartion affine theory, affine foliation, introduction to black-hole like solution and perspectives of the model.
  
-
 ## News
+
+
+### December - 2024
+
+- The paper **A polynomial affine model of gravity: after ten years** is donde, you can check the pre-print in [Arxiv](https://arxiv.org/pdf/2412.21122)
 
 ### November - 2024
 
