@@ -10,8 +10,7 @@ redirect_from:
 
 Hi! my name is Jose I am a theoretical physicist. I received a B.Sc in Physics (2016) and a M.Sc. in Physics (2019) from
 Federico Santa María Technical University in Valparaíso, Chile. In 2023 I moved
-to Spain (1 year), where I worked as research scientist at the University of Valencia and IFIC. In 2025 will start the PhD Physics
-programme at the University Andres Bello in Chile
+to Spain (1 year), where I worked as research scientist at the University of Valencia and IFIC.
 
 Currently, I am working in the field of modified or alternative gravitational theories like metric-affine theories
 using Palatini's formalism or purely affine models of gravity, like Polynomial Affine Gravity. Exploring classical
