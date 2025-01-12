@@ -16,7 +16,7 @@ author_profile: true
 # Peer-reviewed publications
 ---
 
-1. Cosmological Solutions in Polynomial Affine Gravity with Torsion [arxiv](https://arxiv.org/abs/2404.11703)[journal]()
+1. Cosmological Solutions in Polynomial Affine Gravity with Torsion [arxiv](https://arxiv.org/abs/2404.11703), [journal]
 
 2. Corrigendum: Emergent metric and geodesic analysis in cosmological solutions of (torsion-free) polynomial affine gravity [journal](https://iopscience.iop.org/article/10.1088/1361-6382/ad0356)
 
